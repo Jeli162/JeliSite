@@ -4,7 +4,7 @@ body {
 
 h1 {
     margin: 0;
-    font-family: "Comic Sans MS", "Courier New";
+    font-family: "Comic Relief", "Courier New";
     font-size: 100px;
     color: white;
     text-align: center;
@@ -12,7 +12,7 @@ h1 {
 }
 
 #welcome {
-    font-family: "Comic Sans MS", "Courier New";
+    font-family: "Comic Relief", "Courier New";
     font-size: 50px;
     color: white;
     text-align: center;
@@ -21,7 +21,7 @@ h1 {
 
 #teehee {
     margin: 0;
-    font-family: "Comic Sans MS", "Courier New";
+    font-family: "Comic Relief", "Courier New";
     font-size: 100px;
     color: black;
     text-align: center;
