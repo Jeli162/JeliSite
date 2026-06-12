@@ -13,6 +13,8 @@ h1 {
 
 #welcome {
     margin: 0;
+    margin-left: 20px;
+    margin-right: 20px;
     font-family: "Comic Relief", "Courier New";
     font-size: 50px;
     color: white;
@@ -31,7 +33,7 @@ h1 {
 
 .top-section{
     min-height: 70vh;
-    background: linear-gradient(to top, rgb(180, 0, 180), rgb(255, 120, 255));
+    background: linear-gradient(to top, rgb(207, 6, 207), rgb(255, 80, 255));
     background-repeat: no-repeat;
 }
 
