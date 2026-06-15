@@ -33,7 +33,7 @@ h1 {
 
 .top-section{
     min-height: 70vh;
-    background: linear-gradient(to top, rgb(207, 6, 207), rgb(255, 80, 255));
+    background: linear-gradient(to top, rgb(87, 15, 255), rgb(167, 120, 255));
     background-repeat: no-repeat;
 }
 
@@ -54,5 +54,5 @@ h1 {
 .bottom-section{
     position: relative;
     min-height: 40vh;
-    background-color: rgb(255, 197, 252);
+    background-color: rgb(165, 126, 255);
 }
